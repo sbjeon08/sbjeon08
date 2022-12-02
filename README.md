@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm soobin jeon. I'm 15 years old(student) and I'm interested in programming.
+
+## My favorite languages
+ - Flutter
+ - Python
+ - JavaScript
+
 <!--
 **sbjeon08/sbjeon08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
