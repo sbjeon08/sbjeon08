@@ -7,6 +7,8 @@ I'm soobin jeon. I'm 15 years old(student) and I'm interested in programming.
  - Python
  - JavaScript
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbjeon08)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **sbjeon08/sbjeon08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
