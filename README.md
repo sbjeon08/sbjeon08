@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm soobin jeon. I'm 15 years old(student) and I'm interested in programming.
-next year, I will be on KSA.
+I'm 16 years old.
+I am studying on KSA.
 
 If you are visitor, check out my suhang repository!
 
