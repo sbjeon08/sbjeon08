@@ -1,9 +1,4 @@
-### Hi there 👋
 
-I'm 16 years old.
-I am studying on KSA.
-
-If you are visitor, check out my suhang repository!
 
 ## My favorite languages
  - Flutter
